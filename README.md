@@ -1,18 +1,18 @@
-Ryan Kassab
-2296707
-rkassab@chapman.edu
-CPSC350-01
-Assignment 1
+Ryan Kassab \n
+2296707 \n
+rkassab@chapman.edu \n
+CPSC350-01 \n
+Assignment 1 \n
 
-The source files that are being submitted are: dna.h, dna.cpp, and main.cpp. These are all contained within the GitHub 
-repository, Assignment_1.
+The source files that are being submitted are: dna.h, dna.cpp, and main.cpp. These are all contained within the GitHub \n
+repository, Assignment_1. \n
 
-The problems in the code that I ran into was just simple C++ code errors for one reason or another, mainly because my knowledge 
-in C++ is minimal at best, or some simple run-time errors based on like segmentation faults and things of that nature. 
+The problems in the code that I ran into was just simple C++ code errors for one reason or another, mainly because my knowledge \n 
+in C++ is minimal at best, or some simple run-time errors based on like segmentation faults and things of that nature. \n
 
 The references I used were several websites linked below and Ryan Lidner for some help on the equations while printing the 
-random strings.
-References:
+random strings.\n
+References: \n
 https://stackoverflow.com/questions/25267372/correct-way-to-detach-from-a-container-without-stopping-it
 https://stackoverflow.com/questions/874134/find-if-string-ends-with-another-string-in-c
 http://www.cplusplus.com/doc/tutorial/files/
